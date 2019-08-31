@@ -5,7 +5,7 @@ while i < array.size do
   squared_array<<array[i]**2
 i+=1
 # end
-# squared_array
+ squared_array
 end
 
 
