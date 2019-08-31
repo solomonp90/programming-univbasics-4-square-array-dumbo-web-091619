@@ -4,9 +4,28 @@ i = 0
 while i < array.size do
   squared_array<<array[i]**2
 i+=1
+# end
+# squared_array
 end
-squared_array
-end
+
+
+
+
+# def square_array(array)
+#   i=0
+#   while i < array.size
+#
+# end
+
+
+
+
+
+
+
+
+
+
 
 
 
